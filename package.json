@@ -35,7 +35,7 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/harry/deep-blueprint.git"
+    "url": "git://github.com/harry/deep-blueprint-sample.git"
   },
   "author": "harry",
   "license": ""
